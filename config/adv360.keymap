@@ -81,7 +81,7 @@
         layer_drawing {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans                      &trans                                                         &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &macro_new-layer                                                         &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &macro_new_layer                                                         &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                      &trans     &trans  &trans                  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                                         &trans                  &trans                      &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans                              &trans  &kp SPACE  &trans                  &trans  &trans  &kp DELETE          &trans  &trans  &trans  &trans  &trans
